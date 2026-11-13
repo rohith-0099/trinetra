@@ -261,10 +261,6 @@ uvicorn app.main:app --reload --port 8000 --workers 1   # 1 worker: live events 
 
 *MITRE ATT&CK and ATT&CK are registered trademarks of The MITRE Corporation. TRINETRA is not affiliated with or endorsed by MITRE, NIST or CISA.*
 
-## Acknowledgements
-
-Team **WeBugz** built TRINETRA for Vyuham'26 Agent Forge at Digital University Kerala (Problem AF-15, Cybersecurity & Digital Trust).
-
 ## License
 
 Apache License 2.0. See [`LICENSE`](LICENSE).
